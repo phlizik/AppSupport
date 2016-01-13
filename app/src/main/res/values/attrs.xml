@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BaseGridView">
+        <attr name="android_gravity" format="integer" />
+        <attr name="focusOutFront" format="boolean" />
+        <attr name="focusOutEnd" format="boolean" />
+        <attr name="horizontalMargin" format="dimension" />
+        <attr name="verticalMargin" format="dimension" />
+    </declare-styleable>
+</resources>
